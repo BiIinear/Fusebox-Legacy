@@ -1,6 +1,6 @@
 Tuesday, April 15, 2025
 
-I open-sourced Fusebox. I have no use for it anymore, other than to boast about how this project taught me a lot about scripting on Roblox and optimizing your code. Emphasis on optimizing - as for organization, however, Fusebox is a game developer's hell. It's
+I open-sourced Fusebox. I have no use for it anymore, other than to boast about how this project taught me a lot about scripting on Roblox and optimizing your code. As for structure and organization, however, Fusebox is a game developer's hell. It's
 degrading to talk about a passion project like this, but it's the truth and it needs to be said, especially since I had plans to commercialize this. It's a type-inferred hellscape, the root-driven directory structure is unconventional, and everything knows too
 much about each other and it's very tightly coupled. One can just reference the root of the directory and delete it. Boom, the entire game's logic is gone, easy as that. Anyways, enough about that. This is about all I can provide to this project. It works, and
 has minimal bugs, so there's that! I will admit, it's still fun to mess around with and write commands. Just remember that variables are dynamically typed, there's saving and loading, utility commands, file path autocomplete, seamless and bugless map changing,
