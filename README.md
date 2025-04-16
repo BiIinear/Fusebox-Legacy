@@ -1,3 +1,4 @@
+This is the legacy version of Fusebox; I have no plans to update, change, or finish this project.
 I have no use for it anymore, other than to boast about how this project taught me a lot about scripting on Roblox and optimizing your code. As for structure and organization, however, Fusebox is a game developer's hell. It's
 degrading to talk about a passion project like this, but it's the truth and it needs to be said, especially since I had plans to commercialize this. It's a type-inferred hellscape, the root-driven directory structure is unconventional, and everything knows too
 much about each other and it's very tightly coupled. One can just reference the root of the directory and delete it. Boom, the entire game's logic is gone, easy as that. Anyways, enough about that. This is about all I can provide to this project. It works, and
